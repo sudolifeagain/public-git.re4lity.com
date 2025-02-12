@@ -18,7 +18,7 @@ I have made the following changes to the original project:
 This project is provided under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Starting Up
-'''npm install''' to install packages
-'''npm run dev''' to start dev server(local)
-'''npm run deploy''' to deploy website
+ ```npm install``` to install packages <br>
+```npm run dev``` to start dev server(local) <br>
+```npm run deploy``` to deploy website
 
